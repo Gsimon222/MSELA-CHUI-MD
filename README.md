@@ -62,7 +62,7 @@
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/kingjux/Los-Rios-md)
+[`Deploy on heroku`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FMselachui03%2FMSELA-CHUI-MD)
 
 [`Deploy on Replit`](https://replit.com)
 
